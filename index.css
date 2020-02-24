@@ -222,7 +222,7 @@
     grid-area: item-2;
 }
 .project__item-3{
-    background: url(./img/project__item-2.png) center center no-repeat;
+    background: url(./img/project__item-3.png) center center no-repeat;
     background-size: cover;
     grid-area: item-3;
 }
